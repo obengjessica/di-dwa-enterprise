@@ -21,7 +21,7 @@ Welcome to the official repository for **Di Dwa**, an online foodstuffs and groc
 |-------------------|------------------|-----------------------|
 | React.js          | Node.js *(Planned)* | Tailwind CSS         |
 |Tailwind           | Express *(Planned)* | Swiper.js (Image slider) |
-| React Icons       | Git & GitHub        |                          |
+| React Icons       | Git & GitHub        |   MySQL                    |
 | Bootstrap         |                     |                          |
 
 ---
