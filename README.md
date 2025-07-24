@@ -29,7 +29,7 @@ Welcome to the official repository for **Di Dwa**, an online foodstuffs and groc
 ## 📸 UI Preview
 
 ### 🛍️ Logo
-![Di Dwa Logo](https://github.com/isra419/software-engineering-/blob/main/assets/Dei-Dwa-logo1.png?raw=true)
+![Di Dwa Logo](https://github.com/isra419/software-engineering-/blob/main/Dei-Dwa-logo1.png)
 
 ### 🖥️ Homepage Screenshot
 ![UI Screenshot](https://github.com/isra419/software-engineering-/blob/main/assets/Screenshot%20(14).png?raw=true)
