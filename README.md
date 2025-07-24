@@ -32,9 +32,9 @@ Welcome to the official repository for **Di Dwa**, an online foodstuffs and groc
 ![Di Dwa Logo](https://github.com/isra419/software-engineering-/blob/main/Dei-Dwa-logo1.png)
 
 ### 🖥️ Homepage Screenshot
-![UI Screenshot](https://github.com/isra419/software-engineering-/blob/main/assets/Screenshot%20(14).png?raw=true)
+![UI Screenshot](https://github.com/isra419/software-engineering-/blob/main/Screenshot%20(14).png)
 
-*A modern and clean shopping interface built with React and Tailwind CSS.*
+*A modern and clean shopping interface built with React, Tailwind CSS, Bootstrap*
 
 
 ## 👨‍💻 Team Members
