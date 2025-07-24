@@ -41,6 +41,7 @@ Welcome to the official repository for **Di Dwa**, an online foodstuffs and groc
 
 - **Jessica Obeng** – UI/UX Designer & Frontend Developer
 - **Israel Opoku-Agyemang** - Project Manager
+- **Mubarack Jibriel** - Development and Operations Manager 
 
 ---
 
@@ -74,5 +75,5 @@ For inquiries, suggestions, or support, please reach out via:
 
 - GitHub Issues
 - jaobeng018@st.ug.edu.gh / blaqluv233@gmail.com - 0591286053
-- iopoku-agyemang001@st.ug.edu.gh - 0598441630
-
+- iopoku-agyemang001@st.ug.edu.gh - 
+- mubarackjibriel@gmail.com / mjibriel@st.ug.edu.gh -0542384885
