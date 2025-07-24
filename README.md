@@ -75,5 +75,5 @@ For inquiries, suggestions, or support, please reach out via:
 
 - GitHub Issues
 - jaobeng018@st.ug.edu.gh / blaqluv233@gmail.com - 0591286053
-- iopoku-agyemang001@st.ug.edu.gh - 
+- iopoku-agyemang001@st.ug.edu.gh - 0598441630
 - mubarackjibriel@gmail.com / mjibriel@st.ug.edu.gh -0542384885
