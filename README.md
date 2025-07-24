@@ -28,10 +28,14 @@ Welcome to the official repository for **Di Dwa**, an online foodstuffs and groc
 
 ## 📸 UI Preview
 
-> ![Sample UI](./assets/preview.jpg)  
-*A modern and clean shopping interface (Design inspired by Figma)*
+### 🛍️ Logo
+![Di Dwa Logo](https://github.com/isra419/software-engineering-/blob/main/assets/Dei-Dwa-logo1.png?raw=true)
 
----
+### 🖥️ Homepage Screenshot
+![UI Screenshot](https://github.com/isra419/software-engineering-/blob/main/assets/Screenshot%20(14).png?raw=true)
+
+*A modern and clean shopping interface built with React and Tailwind CSS.*
+
 
 ## 👨‍💻 Team Members
 
