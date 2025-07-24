@@ -15,7 +15,7 @@ Welcome to the official repository for **Di Dwa**, an online foodstuffs and groc
 
 ---
 
-## 🖥️ Technologies Used
+## 🖥️ Stacks
 
 | Frontend          | Backend         | Others               |
 |-------------------|------------------|-----------------------|
