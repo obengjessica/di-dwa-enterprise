@@ -77,3 +77,4 @@ For inquiries, suggestions, or support, please reach out via:
 - jaobeng018@st.ug.edu.gh / blaqluv233@gmail.com - 0591286053
 - iopoku-agyemang001@st.ug.edu.gh - 0598441630
 - mubarackjibriel@gmail.com / mjibriel@st.ug.edu.gh -0542384885
+- hharuna012@st.ug.edu.gh / harunahakeem638@gmail.com - 0558707561
