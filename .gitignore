@@ -2,3 +2,4 @@
 .env
 /vendor/
 Project-planning-and-tech-stacks.md
+composer.lock
