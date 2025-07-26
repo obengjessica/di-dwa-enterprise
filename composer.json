@@ -1,0 +1,11 @@
+{
+    "name": "chris/di_dwa_enterprise",
+    "description": "A web application for Di Dwa Enterprise",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "young_devs"
+        }
+    ],
+    "require": {}
+}
