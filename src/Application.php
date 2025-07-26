@@ -2,8 +2,10 @@
     declare(strict_types = 1);
 
     namespace App\DiDwaEnterprise;
-    use Phroute\Phroute\Dispatcher;
+
     
+    use Phroute\Phroute\Dispatcher;
+
     class Application
     {
         private static ?Application $instance = NULL;

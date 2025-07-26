@@ -9,16 +9,14 @@
     class ApplicationRouter
     {
         private Dispatcher $dispatcher;
+        private DefaultController $defaultController;
 
         public function __construct() {
             $router = new RouteCollector();
+            $this->defaultController = new DefaultController();
             
             $router->get("/", function() {
-                echo "This is the homepage";
-            });
-
-            $router->get("/product/{id}", function($id) {
-                echo "This is the product page for product $id";
+                $this->defaultController->landingPage();
             });
 
             $this->dispatcher = new Dispatcher($router->getData());
