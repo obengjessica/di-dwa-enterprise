@@ -17,6 +17,10 @@
                 echo "This is the homepage";
             });
 
+            $router->get("/product/{id}", function($id) {
+                echo "This is the product page for product $id";
+            });
+
             $this->dispatcher = new Dispatcher($router->getData());
         }
 
